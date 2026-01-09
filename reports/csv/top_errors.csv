@@ -1,0 +1,11 @@
+error_type,message,count
+,Unexpected exception causing shutdown while sock still open,12
+UnknownError,Invalid API key provided,1
+TimeoutError,Established session 0x34ed9ac1c1e002e with negotiated timeout 10000 for client /10.10.34.42:39469,1
+,File not found exception,1
+ConnectionError,Accepted socket connection from /10.10.34.13:54649,1
+,Unexpected Exception:,1
+UnknownError,Client attempting to establish new session at /10.10.34.39:45022,1
+UnknownError,Server environment:user.name=zookeeper,1
+,Job execution failed due to timeout,1
+TimeoutError,Database connection timeout,1

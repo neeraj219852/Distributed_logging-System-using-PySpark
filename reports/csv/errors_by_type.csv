@@ -1,0 +1,5 @@
+error_type,count
+,15
+UnknownError,3
+TimeoutError,2
+ConnectionError,1

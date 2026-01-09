@@ -1,0 +1,44 @@
+[2026-01-02 08:26:32] [CRITICAL] HIGH_ERROR_RATE: Error rate 40.48% exceeds threshold 10.00%
+[2026-01-02 08:26:32] [CRITICAL] CRITICAL_ERRORS: Found 17 critical errors (threshold: 5)
+[2026-01-02 08:28:36] [CRITICAL] HIGH_ERROR_RATE: Error rate 40.48% exceeds threshold 10.00%
+[2026-01-02 08:28:36] [CRITICAL] CRITICAL_ERRORS: Found 17 critical errors (threshold: 5)
+[2026-01-02 08:32:27] [CRITICAL] HIGH_ERROR_RATE: Error rate 40.48% exceeds threshold 10.00%
+[2026-01-02 08:32:28] [CRITICAL] CRITICAL_ERRORS: Found 17 critical errors (threshold: 5)
+[2026-01-02 08:34:15] [CRITICAL] HIGH_ERROR_RATE: Error rate 40.48% exceeds threshold 10.00%
+[2026-01-02 08:34:16] [CRITICAL] CRITICAL_ERRORS: Found 17 critical errors (threshold: 5)
+[2026-01-02 08:36:08] [CRITICAL] HIGH_ERROR_RATE: Error rate 40.48% exceeds threshold 10.00%
+[2026-01-02 08:36:08] [CRITICAL] CRITICAL_ERRORS: Found 17 critical errors (threshold: 5)
+[2026-01-02 08:46:26] [CRITICAL] HIGH_ERROR_RATE: Error rate 40.48% exceeds threshold 10.00%
+[2026-01-02 08:46:26] [CRITICAL] CRITICAL_ERRORS: Found 17 critical errors (threshold: 5)
+[2026-01-02 09:18:42] [CRITICAL] HIGH_ERROR_RATE: Error rate 27.12% exceeds threshold 10.00%
+[2026-01-02 09:18:42] [CRITICAL] HIGH_ERROR_COUNT: Total error count 147 exceeds threshold 100
+[2026-01-02 09:18:42] [CRITICAL] CRITICAL_ERRORS: Found 147 critical errors (threshold: 5)
+[2026-01-02 19:21:12] [CRITICAL] HIGH_ERROR_RATE: Error rate 27.12% exceeds threshold 10.00%
+[2026-01-02 19:21:12] [CRITICAL] HIGH_ERROR_COUNT: Total error count 147 exceeds threshold 100
+[2026-01-02 19:21:13] [CRITICAL] CRITICAL_ERRORS: Found 147 critical errors (threshold: 5)
+[2026-01-05 20:28:37] [CRITICAL] HIGH_ERROR_RATE: Error rate 27.12% exceeds threshold 10.00%
+[2026-01-05 20:28:38] [CRITICAL] HIGH_ERROR_COUNT: Total error count 147 exceeds threshold 100
+[2026-01-05 20:28:38] [CRITICAL] CRITICAL_ERRORS: Found 147 critical errors (threshold: 5)
+[2026-01-05 20:46:46] [CRITICAL] HIGH_ERROR_COUNT: Total error count 160 exceeds threshold 100
+[2026-01-05 20:46:46] [CRITICAL] CRITICAL_ERRORS: Found 160 critical errors (threshold: 5)
+[2026-01-05 20:49:54] [CRITICAL] HIGH_ERROR_COUNT: Total error count 160 exceeds threshold 100
+[2026-01-05 20:49:54] [CRITICAL] CRITICAL_ERRORS: Found 160 critical errors (threshold: 5)
+[2026-01-05 20:53:30] [CRITICAL] HIGH_ERROR_COUNT: Total error count 143 exceeds threshold 100
+[2026-01-05 20:53:30] [CRITICAL] CRITICAL_ERRORS: Found 143 critical errors (threshold: 5)
+[2026-01-05 20:59:54] [CRITICAL] CRITICAL_ERRORS: Found 13 critical errors (threshold: 5)
+[2026-01-05 21:06:42] [CRITICAL] CRITICAL_ERRORS: Found 13 critical errors (threshold: 5)
+[2026-01-05 21:07:03] [CRITICAL] CRITICAL_ERRORS: Found 13 critical errors (threshold: 5)
+[2026-01-05 21:10:18] [CRITICAL] CRITICAL_ERRORS: Found 13 critical errors (threshold: 5)
+[2026-01-05 21:55:23] [CRITICAL] CRITICAL_ERRORS: Found 21 critical errors (threshold: 5)
+[2026-01-05 22:00:56] [CRITICAL] CRITICAL_ERRORS: Found 21 critical errors (threshold: 5)
+[2026-01-05 22:13:45] [CRITICAL] CRITICAL_ERRORS: Found 21 critical errors (threshold: 5)
+[2026-01-05 22:18:13] [CRITICAL] CRITICAL_ERRORS: Found 21 critical errors (threshold: 5)
+[2026-01-05 22:20:25] [CRITICAL] CRITICAL_ERRORS: Found 21 critical errors (threshold: 5)
+[2026-01-05 22:26:42] [CRITICAL] CRITICAL_ERRORS: Found 21 critical errors (threshold: 5)
+[2026-01-05 22:37:20] [CRITICAL] CRITICAL_ERRORS: Found 21 critical errors (threshold: 5)
+[2026-01-05 22:40:32] [CRITICAL] CRITICAL_ERRORS: Found 21 critical errors (threshold: 5)
+[2026-01-07 20:33:49] [CRITICAL] CRITICAL_ERRORS: Found 21 critical errors (threshold: 5)
+[2026-01-07 20:34:30] [CRITICAL] CRITICAL_ERRORS: Found 21 critical errors (threshold: 5)
+[2026-01-07 20:46:53] [CRITICAL] CRITICAL_ERRORS: Found 21 critical errors (threshold: 5)
+[2026-01-09 20:20:53] [CRITICAL] CRITICAL_ERRORS: Found 21 critical errors (threshold: 5)
+[2026-01-09 20:22:10] [CRITICAL] CRITICAL_ERRORS: Found 21 critical errors (threshold: 5)
